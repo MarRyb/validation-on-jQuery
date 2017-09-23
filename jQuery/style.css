@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: rgba(104, 104, 249, 0.18);
+}
+
+#btn-1, #btn-2, #btn-3, #btn-4 {
+	width: 100px;
+	height: 50px;
+	background: red;
+	display: inline-block;	
+}
